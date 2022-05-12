@@ -6,9 +6,10 @@ Greetings! I am Yukun, this is my github main page.
 - 🔭 I’m currently at Oregon Health & Science University studying PhD in Biomedical Engeering
 - 😄 Pronouns: he/him/his
 - ✒️ Learn more about me at my [website](https://yukun-guo.github.io/)
-[![Yukun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yukun_Guo)](https://github.com/anuraghazra/github-readme-stats)
-![Yukun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukun-Guo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+![Yukun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukun-Guo&show_icons=true&theme=buefy&line_height=20px)
+
 <!--
 **Yukun-Guo/Yukun-Guo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
