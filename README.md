@@ -5,7 +5,7 @@ Greetings! I am Yukun, this is my github main page.
 
 - 🔭 I’m currently at Oregon Health & Science University studying PhD in Biomedical Engeering
 - 😄 Pronouns: he/him/his
-- ✒️ Learn more about me at my [website](https://github.io/Yukun-Guo)
+- ✒️ Learn more about me at my [website](https://yukun-guo.github.io/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yukun-Guo&show_icons=true&include_all_commits=true&theme=merko" />
