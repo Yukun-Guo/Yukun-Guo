@@ -8,10 +8,10 @@ Greetings! I am Yukun, this is my github main page.
 - ✒️ Learn more about me at my [website](https://yukun-guo.github.io/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yukun-Guo&show_icons=true&include_all_commits=true&theme=merko" />
+  <img align="center" style='hight:50px' src="https://github-readme-stats.vercel.app/api?username=Yukun-Guo&show_icons=true&include_all_commits=true&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukun-Guo&hide=jupyter%20notebook,javascript,html" />
+  <img align="center" style='hight:50px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukun-Guo&hide=jupyter%20notebook,javascript,html" />
 </a>
 
 <!--
