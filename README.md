@@ -13,7 +13,7 @@ Greetings! I am Yukun, this is my github main page.
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" style='hight:50px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukun-Guo&hide=jupyter%20notebook,javascript,html" />
 </a>
-
+![Yukun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukun-Guo&show_icons=true&theme=radical)
 <!--
 **Yukun-Guo/Yukun-Guo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
