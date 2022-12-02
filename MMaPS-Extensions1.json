@@ -1,0 +1,14 @@
+[
+  { 
+    "ID": "yukunguo.mmaps.mmaps-extension-test1",
+    "Label": "Extension test 1"
+  },
+ { 
+   "ID": "yukunguo.mmaps.mmaps-extension-test2",
+    "Label": "Extension test 2"
+  },
+ { 
+    "ID": "yukunguo.mmaps.mmaps-extension-test3",
+    "Label": "Extension test 3"
+  }
+]
