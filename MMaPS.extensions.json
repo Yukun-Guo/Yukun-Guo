@@ -1,18 +1,18 @@
 {
   { 
-    ID: "yukunguo.mmaps.mmaps-extension-test1";
-    Label: "Extension test 1";
+    ID: "yukunguo.mmaps.mmaps-extension-test1",
+    Label: "Extension test 1"
   },
  { 
-    ID: "yukunguo.mmaps.mmaps-extension-test2";
-    Label: "Extension test 2";
+    ID: "yukunguo.mmaps.mmaps-extension-test2",
+    Label: "Extension test 2"
   },
  { 
-    ID: "yukunguo.mmaps.mmaps-extension-test3";
-    Label: "Extension test 3";
+    ID: "yukunguo.mmaps.mmaps-extension-test3",
+    Label: "Extension test 3"
   },
  { 
-    ID: "yukunguo.mmaps.mmaps-extension-test4";
-    Label: "Extension test 4";
-  },
+    ID: "yukunguo.mmaps.mmaps-extension-test4",
+    Label: "Extension test 4"
+  }
 }
