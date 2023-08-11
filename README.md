@@ -9,8 +9,7 @@ Greetings! I am Yukun, this is my github main page.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukun-Guo&layout=compact&theme=github_dark&langs_count=6&&hide=GLSL,go&card_width=250px)
 ![Yukun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukun-Guo&show_icons=true&theme=github_dark&line_height=20px)
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yukun-Guo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yukun's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukun-Guo&layout=compact&theme=github_dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yukun-Guo&show_icons=true&include_all_commits=true&theme=github_dark&line_height=20px" />
 <!--
 **Yukun-Guo/Yukun-Guo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
