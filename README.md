@@ -7,10 +7,10 @@ Greetings! I am Yukun, this is my github main page.
 - 😄 Pronouns: he/him/his
 - ✒️ Learn more about me at my [website](https://yukun-guo.github.io/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukun-Guo&layout=compact&theme=github_dark&langs_count=6&&hide=GLSL,go&card_width=250px)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukun-Guo&layout=compact&theme=github_dark&langs_count=6&&hide=GLSL,go&card_width=250px)
 ![Yukun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukun-Guo&show_icons=true&theme=github_dark&line_height=20px)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukun-Guo&show_icons=true&theme=transparent)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukun-Guo&show_icons=true&bg_color=00000000)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Yukun-Guo&show_icons=true&theme=dark#gh-dark-mode-only)]
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Yukun-Guo&show_icons=true&theme=default#gh-light-mode-only)
 <!--
 **Yukun-Guo/Yukun-Guo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
