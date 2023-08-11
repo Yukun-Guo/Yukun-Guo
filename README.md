@@ -11,6 +11,17 @@ Greetings! I am Yukun, this is my github main page.
 ![Yukun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yukun-Guo&show_icons=true&theme=github_dark&line_height=20px)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Yukun-Guo&show_icons=true&theme=dark#gh-dark-mode-only)]
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Yukun-Guo&show_icons=true&theme=default#gh-light-mode-only)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 <!--
 **Yukun-Guo/Yukun-Guo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
