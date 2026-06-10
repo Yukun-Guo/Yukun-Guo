@@ -3,7 +3,6 @@
 
 Greetings! I am Yukun, this is my github main page.
 
-- 🔭 I’m currently at Oregon Health & Science University studying Ph.D. in Biomedical Engineering
 - 😄 Pronouns: he/him/his
 - ✒️ Learn more about me at my [website](https://yukun-guo.github.io/)
 
